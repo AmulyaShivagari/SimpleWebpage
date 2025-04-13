@@ -1,2 +1,2 @@
-SimpleWebpage
-centerdivpage
+simple webpage
+
